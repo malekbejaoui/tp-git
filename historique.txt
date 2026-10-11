@@ -2,9 +2,15 @@ v1
 v2
 v3
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 v4
 v5
 correction
 fixup
 >>>>>>> b1fcf8f (fixup! Ajout v2)
+=======
+v4
+v5
+correction
+>>>>>>> a1be7a8 (Correction v4)
