@@ -1,1 +1,10 @@
 v1
+v2
+v3
+<<<<<<< HEAD
+=======
+v4
+v5
+correction
+fixup
+>>>>>>> b1fcf8f (fixup! Ajout v2)
